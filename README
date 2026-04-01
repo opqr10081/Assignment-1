@@ -1,0 +1,12 @@
+# ALU Design (Verilog)
+
+## Supported Operations
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Modulus (%)
+- Bitwise AND
+- Bitwise OR
+
+## How to Run
+Use a Verilog simulator like Icarus Verilog:
